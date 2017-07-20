@@ -1,0 +1,448 @@
+#/// Мод перевёл - Lefty
+#/// Связь со мной - vk.com/2temka | Discord - Lefty#0403
+
+
+//Tabs ==================================================
+itemGroup.jurassicraft.items=JC: Предметы
+itemGroup.jurassicraft.blocks=JC: Блоки
+itemGroup.jurassicraft.dna=JC: ДНК
+itemGroup.jurassicraft.foods=JC: Еда
+itemGroup.jurassicraft.plants=JC: Растения
+itemGroup.jurassicraft.fossils=JC: Окаменелости
+itemGroup.jurassicraft.decorations=JC: Декорации
+
+//Entities ==================================================
+entity.jurassicraft.velociraptor.name=Велоцираптор
+entity.jurassicraft.tyrannosaurus.name=Тиранозавр
+entity.jurassicraft.dilophosaurus.name=Дилофозавр
+entity.jurassicraft.gallimimus.name=Галлимим
+entity.jurassicraft.parasaurolophus.name=Паразавр
+entity.jurassicraft.triceratops.name=Трицератопс
+entity.jurassicraft.brachiosaurus.name=Брахиозавр
+entity.jurassicraft.attraction_sign.name=Табличка
+entity.jurassicraft.mural.name=Фреска
+entity.jurassicraft.paddock_sign.name=Знак загона
+entity.jurassicraft.jeep_wrangler.name=Джип Вранглер
+
+//Items ==================================================
+item.plaster_and_bandage.name=Гипсовая повязка
+
+item.attraction_sign.name=Табличка {type}
+attraction_sign.aquarium.name=Аквариума
+attraction_sign.aquarium_coral.name=Аквариума с кораллами
+attraction_sign.aviary.name=Птичьего вольера 1
+attraction_sign.aviary_plants.name=Птичьего вольера 2
+attraction_sign.gallimimus_valley.name=Галлимима вольера
+attraction_sign.gallimimus_valley_plants.name=Галлимима вольера 2
+attraction_sign.gentle_giants.name=Гиганты
+attraction_sign.gentle_giants_plants.name=Гиганты 2
+attraction_sign.raptor_paddock.name=Вольера для раптора
+attraction_sign.raptor_paddock_plants.name=Вольера для раптора 2
+
+item.skull_fresh.name=Новый череп {dino}а
+item.tooth_fresh.name=Новый зуб {dino}а
+item.anal_fin_fresh.name=Новый плавник {dino}а
+item.shoulders_fresh.name=Новое плечо {dino}а
+item.ribcage_fresh.name=Новая грудь {dino}а
+item.foot_bones_fresh.name=Новая голень {dino}а
+item.tail_fluke_fresh.name=Новый редкий хвост {dino}а
+item.armor_plating_fresh.name=Новая бронь {dino}а
+item.ribs_and_spine_fresh.name=Новое ребро {dino}а
+item.neck_vertebrae_fresh.name=Новая шея {dino}а
+item.pelvis_fresh.name=Новый таз {dino}а
+item.shoulder_blade_fresh.name=Новая лопатка {dino}а
+item.cheek_teeth_fresh.name=Новые зубы {dino}а
+item.tail_vertebrae_fresh.name=Новый хвост {dino}а
+item.second_dorsal_fin_fresh.name=Новый плавник {dino}а
+item.pectoral_fin_bones_fresh.name=Новый плавник {dino}а
+item.inner_teeth_fresh.name=Новые зубы {dino}а
+item.teeth_fresh.name=Новый зуб {dino}а
+item.shoulder_fresh.name=Новая лопатка {dino}а
+item.mouth_plates_fresh.name=Новая часть рта {dino}а
+item.hind_flipper_fresh.name=Новый плавник {dino}а
+item.shoulder_bone_fresh.name=Новая лопатка {dino}а
+item.hind_leg_bones_fresh.name=Новая нога {dino}а
+item.tail_fresh.name=Новый хвост {dino}а
+item.front_flipper_fresh.name=Новый плавник {dino}а
+item.spine_fresh.name=Новый позвоночник {dino}а
+item.front_leg_bones_fresh.name=Новая нога {dino}а
+item.neck_fresh.name=Новая шея {dino}а
+item.body_fins_fresh.name=Новый плавник {dino}а
+item.dorsal_fin_fresh.name=Новый плавник {dino}а
+item.claw_fresh.name=Новый коготь {dino}а
+item.tail_club_fresh.name=Новый хвост {dino}а
+item.leg_bones_fresh.name=Новая нога {dino}а
+item.horn_fresh.name=Новый рог {dino}а
+item.pelvic_fin_bones_fresh.name=Новый таз {dino}а
+item.thagomizer_fresh.name=Новый шип {dino}а
+item.caudal_fin_fresh.name=Новый хвост {dino}а
+item.wing_bones_fresh.name=Новые крылья {dino}а
+item.arm_bones_fresh.name=Новые рука {dino}а
+item.first_dorsal_fin_fresh.name=Новый плавник {dino}а
+
+item.fossilized_egg.name=Окаменелое яйцо
+
+item.skull.name=Череп {dino}а
+item.tooth.name=Зуб {dino}а
+item.anal_fin.name=Плавник {dino}а
+item.shoulders.name=Плечо {dino}а
+item.ribcage.name=Грудь {dino}а
+item.foot_bones.name=Голень {dino}а
+item.tail_fluke.name=Редкий хвост {dino}а
+item.armor_plating.name=Броня {dino}а
+item.ribs_and_spine.name=Ребро {dino}а
+item.neck_vertebrae.name=Шея {dino}а
+item.pelvis.name=Таз {dino}а
+item.shoulder_blade.name=Лопатка {dino}а
+item.cheek_teeth.name=Зубы {dino}а
+item.tail_vertebrae.name=Хвост {dino}а
+item.second_dorsal_fin.name=Плавник {dino}а
+item.pectoral_fin_bones.name=Плавник {dino}а
+item.inner_teeth.name=Зубы {dino}а
+item.teeth.name=Зуб {dino}а
+item.shoulder.name=Лопатка {dino}а
+item.mouth_plates.name=Часть рта {dino}а
+item.hind_flipper.name=Плавник {dino}а
+item.shoulder_bone.name=Лопатка {dino}а
+item.hind_leg_bones.name=Часть ноги {dino}а
+item.tail.name=Хвост {dino}а
+item.front_flipper.name=Плавник {dino}а
+item.spine.name=Позвоночник {dino}а
+item.front_leg_bones.name=Кости ног {dino}а
+item.neck.name=Шея {dino}а
+item.body_fins.name=Плавник {dino}а
+item.dorsal_fin.name=Плавник {dino}а
+item.claw.name=Коготь {dino}а
+item.tail_club.name=Хвост {dino}а
+item.leg_bones.name=Нога {dino}а
+item.horn.name=Рог {dino}а
+item.pelvic_fin_bones.name=Таз {dino}а
+item.thagomizer.name=Шип {dino}а
+item.caudal_fin.name=Хвост {dino}а
+item.wing_bones.name=Крылья {dino}а
+item.arm_bones.name=Рука {dino}а
+item.first_dorsal_fin.name=Плавник {dino}а
+
+item.dino_egg.name=Яйцо {dino}а
+item.hatched_egg.name=Выращенное яйцо {dino}а
+item.dino_spawn_egg.name=Яйцо призыва - {dino}
+item.dinosaur_meat.name=Мясо {dino}а
+item.dinosaur_steak.name=Жареное мясо {dino}а
+item.dna.name=ДНК {dino}а
+item.blue_print.name={type} Blue Print
+item.paddock_sign.name=Знак загона
+item.soft_tissue.name=Мягкая ткань {dino}а
+item.amber.name={stored} в Янтаре
+item.petri_dish.name=Чашка Петри
+item.petri_dish_agar.name=Чашка Петри с янтарём
+item.empty_test_tube.name=Пустая пробирка
+item.syringe.name=Шприц {dino}а
+item.empty_syringe.name=Пустой шприц
+item.storage_disc.name=Диск
+item.dna_base_material.name=ДНК Нуклеотиды
+item.cage_small.name=Маленькая клетка
+item.plant_dna.name={plant} ДНК
+item.sea_lamprey.name=Морская минога
+item.iron_blades.name=Железные лезвия
+item.iron_rod.name=Железный прут
+item.growth_serum.name=Сыворотка роста
+item.needle.name=Игла
+item.plant_cells.name=Растительная клетка
+item.plant_cells_petri_dish.name=Растительная клетка в Чашке Петри 
+item.plant_callus.name={plant} Plant Callus
+item.tracker.name=Dinosaur Tracking Implant
+item.helicopter_spawner.name=Вертолёт
+item.disc_reader.name=Дисковод
+item.laser.name=Лазер
+item.disc_jurassicraft_theme.name=JC Пластинка
+item.disc_troodons_and_raptors.name=JC Пластинка
+item.disc_dont_move_a_muscle.name=JC Пластинка
+item.action_figure.name=Фигурка Динозавра
+item.amber_cane.name=Янтарный тростник
+item.amber_keychain.name=Брелок с янтарём
+item.mr_dna_keychain.name=Брелок с ДНК
+item.dino_scanner.name=Сканер
+item.basic_circuit.name=Принципиальная схема
+item.advanced_circuit.name=Продвинутая схема
+item.iron_nugget.name=Железный самородок
+item.gypsum_powder.name=Гипсовый порошок
+item.plant_soft_tissue.name=Мягкая ткань - {plant}
+item.plant_fossil.name=Ископаемое растение
+item.twig_fossil.name=Окаменелая ветка
+item.keyboard.name=Клавиатура
+item.computer_screen.name=Монитор
+item.dna_analyzer.name=ДНК Анализатор
+item.chilean_sea_bass.name=Чилийский морской окунь
+item.field_guide.name=Энциклопедия
+item.car_chassis.name=Шасси
+item.car_engine_system.name=Двигатель
+item.car_seats.name=Кресла
+item.car_tire.name=Шина
+item.car_windscreen.name=Лобовое стекло
+item.jeep_wrangler.name=Джип Вранглер
+item.unfinished_car.name=Незаконченная машина
+
+item.mural.name=Фреска
+
+// Crops ========================================
+item.ajuginucula_smithii_seeds.name=Семена Ajuginucula Smithii
+item.ajuginucula_smithii_leaves.name=Листья Ajuginucula Smithii
+item.ajuginucula_smithii_oil.name=Масло Ajuginucula Smithii
+item.wild_onion.name=Дикий лук
+item.gracilaria.name=Грацилярия
+item.liquid_agar.name=Жидкий агар
+
+//Blocks ==================================================
+tile.fossil_block.name=Окаменелость {dinosaur}а
+tile.encased_fossil.name=Упакованные окаменелости {dinosaur}а
+tile.plant_fossil_block.name=Ископаемое растение
+tile.fossilized_trackway.name=Фоссилизированная тропинка {variant}
+tile.nest_fossil.name=Фоссилизированное гнездо
+tile.encased_nest_fossil.name=Упакованное Фоссилизированное гнездо
+tile.amber_ore.name=Янтарь
+tile.ice_shard.name=Ледяной череп
+tile.moss.name=Мох
+tile.peat.name=Торф
+tile.peat_moss.name=Торфяной Мох
+
+tile.cleaning_station.name=Очистительная станция
+tile.fossil_grinder.name=Дробилка
+tile.dna_sequencer.name=ДНК Секвенсор
+tile.dna_synthesizer.name=Синтезатор ДНК
+tile.embryonic_machine.name=Эмбрио Машина
+tile.embryo_calcification_machine.name=Машина отведения эмбриона
+tile.incubator.name=Инкубатор
+tile.dna_extractor.name=ДНК Экстрактор
+tile.dna_combinator_hybridizer.name=ДНК Комбинатор
+tile.carnivore_feeder.name=Кормушка для хищников
+
+tile.gypsum_stone.name=Гипсовый камень
+tile.gypsum_cobblestone.name=Гипсовый булыжник
+tile.gypsum_bricks.name=Гипсовые кирпичи
+
+tile.ginkgo_sapling.name=Саженец гинкго
+tile.ginkgo_planks.name=Доски гинкго
+tile.ginkgo_log.name=Дерево гинкго
+tile.ginkgo_leaves.name=Листья гинкго
+tile.ginkgo_stairs.name=Ступеньки гинкго
+tile.ginkgo_slab.name=Плита гинкго
+tile.ginkgo_log_petrified.name=Ископаемое дерево гинкго
+
+tile.calamites_sapling.name=Саженец каламитов
+tile.calamites_leaves.name=Листья каламитов
+tile.calamites_log.name=Дерево каламитов
+tile.calamites_planks.name=Доски каламитов
+tile.calamites_stairs.name=Ступеньки каламитов
+tile.calamites_slab.name=Плита каламитов
+tile.calamites_log_petrified.name=Ископаемое дерево каламитов
+
+tile.small_royal_fern.name=Чистоус величавый
+tile.small_chain_fern.name=Вудвардия бахромчатая
+tile.small_cycad.name=Саговник
+tile.bennettitalean_cycadeoidea.name=Цикадеоидея
+tile.cry_pansy.name=Фиалка крийская
+tile.scaly_tree_fern.name=Чешуйчатый папоротник
+tile.cycad_zamites.name=Замитэс
+tile.dicksonia.name=Дексония
+tile.dicroidium_zuberi.name=Дикродиум Зубери
+tile.west_indian_lilac.name=Восточно-Индийская сирень
+tile.dictyophyllum.name=Диктофиллум
+tile.serenna_veriformans.name=Серенна Вериформанс
+tile.ladinia_simplex.name=Ладиния обыкновенная
+tile.orontium_mackii.name=Оронтия
+tile.umaltolepis.name=Умальтолепис
+tile.liriodendrites.name=Лириодендритэс
+tile.raphaelia.name=Рафаэлия
+tile.encephalartos.name=Энцефаляртос
+
+tile.reinforced_stone.name=Укрепленный камень
+tile.reinforced_bricks.name=Укрепленные кирпичи
+
+tile.cultivate.name={color} Культиватор
+
+tile.clear_glass.name=Чистое стекло
+
+tile.feeder.name=Кормушка
+
+tile.paleo_bale_cycadeoidea.name=Упаковка доисторических растений 1
+tile.paleo_bale_cycad.name=Упаковка доисторических растений 2
+tile.paleo_bale_fern.name=Упаковка доисторических растений 3
+tile.paleo_bale_leaves.name=Упаковка доисторических растений 4
+tile.paleo_bale_other.name=Упаковка доисторических растений 5
+
+trackway.biped_medium.name=Двуногого
+trackway.biped_small.name=Маленького двуногого
+trackway.raptor.name=Раптора
+
+
+// Crops ========================================
+tile.ajuginucula_smithii.name=Ajuginucula Smithii
+tile.wild_onion_plant.name=Дикий лук
+tile.gracilaria_seaweed.name=Грацилярия
+
+//Plants =========================================
+plants.small_royal_fern.name=Чистоус величавый
+plants.calamites.name=Каламиты
+plants.small_chain_fern.name=Вудвардия бахромчатая
+plants.small_cycad.name=Саговник
+plants.ginkgo.name=Гинкго
+plants.bennettitalean_cycadeoidea.name=Цикадеоидея
+plants.cry_pansy.name=Фиалка крийская
+plants.scaly_tree_fern.name=Чешуйчатый папоротник
+plants.cycad_zamites.name=Замитэс
+plants.dicksonia.name=Дексония
+plants.ajuginucula_smithii.name=Ajuginucula Smithii
+plants.wild_onion.name=Дикий лук
+plants.dicroidium_zuberi.name=Дикродиум Зубери
+plants.west_indian_lilac.name=Восточно-Индийская сирень
+plants.dictyophyllum.name=Диктофиллум
+plants.serenna_veriformans.name=Серенна Вериформанс
+plants.ladinia_simplex.name=Ладиния обыкновенная
+plants.orontium_mackii.name=Оронтия
+plants.umaltolepis.name=Умальтолепис
+plants.liriodendrites.name=Лириодендритэс
+plants.raphaelia.name=Рафаэлия
+plants.encephalartos.name=Энцефаляртос 
+
+//Containers ==================================================
+container.cleaning_station=Станция очистки
+container.cleaning_station.cleanFossilButton=Очистить
+container.fossil_grinder=Дробилка
+container.dna_sequencer=ДНК Секвенатор
+container.dna_synthesizer=Синтезатор ДНК
+container.embryonic_machine=Эмбриональная машина
+container.embryo_calcification_machine=Машина отвердения эмбриона
+container.incubator=Инкубатор
+container.dna_extractor=ДНК Экстрактор
+container.dna_combinator_hybridizer=ДНК Комбинатор-Гибридайзер
+container.dna_combinator=ДНК Комбинатор
+container.dna_hybridizer=ДНК Гибридайзер
+container.cultivator=Культиватор
+container.cultivator.progress=Прогресс
+container.cultivator.cultivating=Культивировать
+container.close.name=Закрыть
+container.feeder=Кормушка
+cultivator.proximates.name=Proximates
+cultivator.minerals.name=Минералы
+cultivator.vitamins.name=Витамины
+cultivator.lipids.name=Липиды
+
+//Others ==================================================
+blue_print.blank.name=Бланк
+lore.dna_quality.name=Качество ДНК: {quality}%
+lore.baby_dino.name=SHIFT+ПКМ породить малыша
+lore.genetic_code.name=Генетический код: {code}
+lore.dinosaur.name=Динозавр: {dino}
+lore.plant.name=Растение: {plant}
+lore.change_gender.name=ПКМ по воздуху - изменить пол
+item.record.jurassicraft_theme.desc=PigeonAce - JC Тема
+item.record.troodons_and_raptors.desc=PigeonAce - Троодоны и Рапторы
+item.record.dont_move_a_muscle.desc=PigeonAce - Не двигайся
+
+cage.empty.name=Пусто
+gender.male.name=Самец
+gender.female.name=Самка
+gender.random.name=Случайный пол
+spawnegg.genderchange.name=Из яйца вылупится {mode}.
+actionfigure.genderchange.name=Пол игрушечной фигурки - {mode}.
+amber.mosquito.name=Комар
+amber.aphid.name=Тля
+
+color.red.name=Красный
+color.orange.name=Оранжевый
+color.yellow.name=Жёлтый
+color.green.name=Зелёный
+color.lime.name=Лаймовый
+color.blue.name=Синий
+color.light_blue.name=Светло-синий
+color.purple.name=Фиолетовый
+color.pink.name=Розовый
+color.magenta.name=Пурпурный
+color.white.name=Белый
+color.black.name=Чёрный
+color.brown.name=Коричневый
+color.gray.name=Серый
+color.silver.name=Светло-серый
+color.cyan.name=Голубой
+
+period.quaternary.name=Четвертичный
+period.neogene.name=Неоген
+period.paleogene.name=Палеоген
+period.cretaceous.name=Меловой
+period.jurassic.name=Юрский
+period.triassic.name=Триас
+period.permian.name=Пермский
+period.carboniferous.name=Карбоновый
+period.devonian.name=Девонский
+period.silurian.name=Силурский
+period.ordovician.name=Ордовикский
+period.cambrian.name=Кембрий
+
+//Achievements ==============================================
+achievement.jurassicraft.mod=JurassiCraft!
+achievement.jurassicraft.mod.desc=Играть с модом JurassiCraft!
+
+achievement.jurassicraft.paleontology=Палеонтология
+achievement.jurassicraft.paleontology.desc=Сделать гипсовую повязку
+
+achievement.jurassicraft.amber=Древние насекомые
+achievement.jurassicraft.amber.desc=Найдите и получите Янтарь
+
+achievement.jurassicraft.fossils=Упаковка
+achievement.jurassicraft.fossils.desc=Упакуй окаменелость с помощью Гипсовой повязки
+
+achievement.jurassicraft.cleaningStation=Очистить!
+achievement.jurassicraft.cleaningStation.desc=Сделайте Станцию очистки!
+
+achievement.jurassicraft.fossilGrinder=Дробь
+achievement.jurassicraft.fossilGrinder.desc=Сделать Дробилку!
+
+achievement.jurassicraft.reinforcedStone=Безопасность превыше всего!
+achievement.jurassicraft.reinforcedStone.desc=Сделай укреплённый каменный блок!
+
+//Other =============
+message.tame.name=Вы приручили {dinosaur}
+message.not_owned.name=Это не твой динозавр!
+message.too_young.name=Динозавр слишком маленький!
+message.set_order.name=Отдан приказ динозавру - {order}.
+
+growth_stage.infant.name=Младенец
+growth_stage.juvenile.name=Ребёнок
+growth_stage.adolescent.name=Подросток
+growth_stage.adult.name=Взрослый
+
+order.wander.name=Блуждать
+order.sit.name=Сидеть
+order.follow.name=За мной
+
+gui.select_order.name=Отдать приказ
+
+gui.dinosaur_statistics.name=Статистика:
+gui.health.name=Жизней:
+gui.hunger.name=Голод:
+gui.thirst.name=Жажда:
+gui.age.name=Возраст:
+gui.days_old.name=Прожито {value} дней
+
+status.drowning.name=Тонет 
+status.hungry.name=Голодный
+status.low_health.name=При смерти
+status.poisoned.name=Отравлен
+status.sleepy.name=Спит
+status.tamed.name=Приручен
+status.thirsty.name=Жажда
+status.flocking.name=Держится в стае
+status.scared.name=Испуган
+status.carnivorous.name=Плотоядный
+status.herbivorous.name=Травоядный
+status.diurnal.name=Дневной
+status.nocturnal.name=Ночной
+status.crepuscular.name=Сумеречный
+
+info.triceratops.name=Трицератопсы жили в Северной Америке во время Последнего мелового периода. Они были травоядными, ели листья пальмы, саговники и папоротники. Взрослый Трицератопс достигал 8-9 м в длину и весил 6-12 тонн. Голова использовалась для красоты, в то время как рога применялись для нападения и защиты. Трицератопс жил в группах из 5-15 особей, вожаком которых была самка - матриархат.
+info.dilophosaurus.name=Ростом в 6-7 м в длину, этот Ранний юрский теропод из Аризоны был одним из первых небольших, хищных динозавров. Являясь ядовитым динозавром, он плевался ядом в глаза добычи, что вызывало слепоту и мучительную боль, а в конечном счёте - паралич. Дилофозавр водился в маленьких бандах (3-10 особей) из самцов и самок.
+info.brachiosaurus.name=Брахиозавр был гигантским завроподом, который жил в Северной Америке. Он достигал до 26 м в высоту и от 9 м в длину, при этом весил до 40 тонн. Он спокойно достигал верхушек деревьев, что позволяло ему есть листья гинкго, хвойные деревья, большие папоротники и саговники. Брахиозавры жили в группах из 2-15 особей, во главе с альфа-самцом или самкой.
+info.parasaurolophus.name=Паразавр был хадрозавром, который жил в Северной Америке во время Последнего мелового периода. Он был достигал до 10 м в длину и весил около 2.5 тонн. Рог на его голове использовался для привлечения противоположного пола и для защиты. Паразавр был травоядным хадрозавром, из-за чего долго прожёвывал еду во рту. Его голос был настолько громким, что звучал за милю.
+info.tyrannosaurus.name=Тиранозавр рекс был огромным тероподом, который жил во время Последнего мелового периода в Северной Америке. Он достигал до 13 м в длину и весил 6 тонн. Он был свирепым хищником, который никого не щадил. Поэтому он был королём, которого все боялись. Тиранозавры вели сильный образ жизни, из-за чего занимали множество территорий, а каждый кто им пападался - умирал!
+info.velociraptor.name=Велоцираптор был маленьким динозавром тероподом, который жил в Восточной Азии во время Последнего мелового периода. Они охотились от мелких млекопитающих и ящериц, до динозавров среднего размера. Велоцирапторы - быстры, очень интеллектуальны и агрессивны. Помимо этого, они умели обманывать и имели хорошую память. Они конкурируют со скоростью гепарда и могут прыгать до 4 м.
+info.gallimimus.name=Галлимим был травоядным тероподом, который жил в Монголии во время Последнего мелового периода. Рост взрослого Галлимима достигал 6-8 м. Он предпочитал жить в стаях из 10-100 особей, состоящих из самцов и самок. Ел растительности и морские водоросли, пасся около воды. Галлимимы чрезвычайно панические и любая угроза вызвает их панику, из-за чего они быстро убегают.
